@@ -1,0 +1,6 @@
+@EnWord_HostAddress = http://localhost:5111
+
+GET {{EnWord_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
