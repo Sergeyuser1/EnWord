@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "le7cv5D5cec=",
+  "dgSpecHash": "M/2E7SbHdho=",
   "success": true,
   "projectFilePath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -45,7 +45,8 @@
     "C:\\Users\\tigrd\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
     "C:\\Users\\tigrd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\tigrd\\.nuget\\packages\\system.text.json\\9.0.8\\system.text.json.9.0.8.nupkg.sha512",
-    "C:\\Users\\tigrd\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\tigrd\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\tigrd\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512"
   ],
   "logs": []
 }

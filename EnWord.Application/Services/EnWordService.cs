@@ -18,7 +18,7 @@ namespace EnWord.Application.Services
 
         public async Task<Guid> CreateWord(Word word)
         {
-            return await _wordsRepository.Create(word);
+            return await _wordsRepository.Create(word.enWriting, word.transcription, word.ruWriting, word.freqRepeat);
         }
 
         public async Task<Guid> UpdateWord(Guid id, Word word)

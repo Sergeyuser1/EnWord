@@ -19,13 +19,6 @@ D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\scopedcss\bundle\EnWord
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets.build.json
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets.development.json
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets\msbuild.EnWord.Microsoft.AspNetCore.StaticWebAssets.props
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets\msbuild.EnWord.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets\msbuild.build.EnWord.props
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EnWord.props
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EnWord.props
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets.pack.json
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\EnWord.csproj.Up2Date
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\EnWord.dll
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\refint\EnWord.dll
@@ -67,7 +60,6 @@ D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\System.Composition.Conv
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\System.Composition.Hosting.dll
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\System.Composition.Runtime.dll
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\System.Composition.TypedParts.dll
-D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\System.Text.Json.dll
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -140,3 +132,12 @@ D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\EnWord.Application.pdb
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\EnWord.Core.pdb
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\EnWord.DataAccess.pdb
 D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\EnWord.sourcelink.json
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectCS\ASP.NET Core\EnWord\EnWord\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

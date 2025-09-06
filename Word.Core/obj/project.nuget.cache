@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vL+HxTDVXUc=",
+  "dgSpecHash": "/thTYXtS7n8=",
   "success": true,
   "projectFilePath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tigrd\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -24,15 +24,15 @@ namespace EnWord.DataAccess.Repositories
                 .ToList();
             return words;
         }
-        public async Task<Guid> Create(Word word)
+        public async Task<Guid> Create(string enWriting, string transcription, string ruWriting, int freqRepeat)
         {
             var wordEntity = new WordEntity
             {
                 Id = Guid.NewGuid(),
-                enWriting = word.enWriting,
-                transcription = word.transcription,
-                ruWriting = word.ruWriting,
-                freqRepeat = word.freqRepeat
+                enWriting = enWriting,
+                transcription = transcription,
+                ruWriting = ruWriting,
+                freqRepeat = freqRepeat
             };
             await _context.Words.AddAsync(wordEntity);
             await _context.SaveChangesAsync();
