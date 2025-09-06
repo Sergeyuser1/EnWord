@@ -1,0 +1,13 @@
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\bin\Release\net9.0\Word.DataAccess.deps.json
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\bin\Release\net9.0\Word.DataAccess.dll
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\bin\Release\net9.0\Word.DataAccess.pdb
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.csproj.AssemblyReference.cache
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.AssemblyInfoInputs.cache
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.AssemblyInfo.cs
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.csproj.CoreCompileInputs.cache
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.sourcelink.json
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.dll
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\refint\Word.DataAccess.dll
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\Word.DataAccess.pdb
+D:\ProjectCS\ASP.NET Core\EnWord\Word.DataAccess\obj\Release\net9.0\ref\Word.DataAccess.dll

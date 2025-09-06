@@ -4,6 +4,79 @@
     "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\EnWord.csproj": {}
   },
   "projects": {
+    "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord.Application\\EnWord.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord.Application\\EnWord.Application.csproj",
+        "projectName": "EnWord.Application",
+        "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord.Application\\EnWord.Application.csproj",
+        "packagesPath": "C:\\Users\\tigrd\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tigrd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj": {
+                "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj"
+              },
+              "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj": {
+                "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\EnWord.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +85,109 @@
         "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\EnWord.csproj",
         "packagesPath": "C:\\Users\\tigrd\\.nuget\\packages\\",
         "outputPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tigrd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord.Application\\EnWord.Application.csproj": {
+                "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord.Application\\EnWord.Application.csproj"
+              },
+              "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj": {
+                "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj"
+              },
+              "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj": {
+                "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "NRedisStack": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.9.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj",
+        "projectName": "EnWord.Core",
+        "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj",
+        "packagesPath": "C:\\Users\\tigrd\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,14 +226,90 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj",
+        "projectName": "EnWord.DataAccess",
+        "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\EnWord.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\tigrd\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tigrd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj": {
+                "projectPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\EnWord.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.8, )"
             },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[1.21.0, )"
+              "version": "[9.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -72,9 +324,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

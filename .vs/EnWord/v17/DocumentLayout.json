@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|D:\\ProjectCS\\ASP.NET Core\\EnWord\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\enword.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\enword.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\controllers\\enwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\controllers\\enwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\contracts\\wordsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\contracts\\wordsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D375F8-E09C-4DDF-A76A-305E66C73F3D}|Word.Core\\EnWord.Core.csproj|d:\\projectcs\\asp.net core\\enword\\word.core\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D375F8-E09C-4DDF-A76A-305E66C73F3D}|Word.Core\\EnWord.Core.csproj|solutionrelative:word.core\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\enword.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\enword.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|d:\\projectcs\\asp.net core\\enword\\enword\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F642C25D-5958-48D4-9473-E5DCF710B281}|EnWord\\EnWord.csproj|solutionrelative:enword\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E18FF26-3C9C-4ED6-8694-E145B890433B}|Word.DataAccess\\EnWord.DataAccess.csproj|d:\\projectcs\\asp.net core\\enword\\word.dataaccess\\configurations\\wordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E18FF26-3C9C-4ED6-8694-E145B890433B}|Word.DataAccess\\EnWord.DataAccess.csproj|solutionrelative:word.dataaccess\\configurations\\wordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-16T07:31:59.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnWord.csproj",
-              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\EnWord.csproj",
-              "RelativeDocumentMoniker": "EnWord\\EnWord.csproj",
-              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\EnWord.csproj",
-              "RelativeToolTip": "EnWord\\EnWord.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-16T03:43:09.717Z"
+              "DocumentIndex": 3,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\Models\\Word.cs",
+              "RelativeDocumentMoniker": "Word.Core\\Models\\Word.cs",
+              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.Core\\Models\\Word.cs",
+              "RelativeToolTip": "Word.Core\\Models\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T02:03:40.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Dockerfile",
-              "RelativeDocumentMoniker": "EnWord\\Dockerfile",
-              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Dockerfile",
-              "RelativeToolTip": "EnWord\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-16T03:42:20.913Z"
+              "Title": "WordsResponse.cs",
+              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Contracts\\WordsResponse.cs",
+              "RelativeDocumentMoniker": "EnWord\\Contracts\\WordsResponse.cs",
+              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Contracts\\WordsResponse.cs",
+              "RelativeToolTip": "EnWord\\Contracts\\WordsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T02:01:56.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "EnWord\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Properties\\launchSettings.json",
-              "RelativeToolTip": "EnWord\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-15T14:41:06.967Z"
+              "DocumentIndex": 1,
+              "Title": "EnWordsController.cs",
+              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Controllers\\EnWordsController.cs",
+              "RelativeDocumentMoniker": "EnWord\\Controllers\\EnWordsController.cs",
+              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Controllers\\EnWordsController.cs",
+              "RelativeToolTip": "EnWord\\Controllers\\EnWordsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:54:08.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "WordConfiguration.cs",
+              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\Configurations\\WordConfiguration.cs",
+              "RelativeDocumentMoniker": "Word.DataAccess\\Configurations\\WordConfiguration.cs",
+              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\Word.DataAccess\\Configurations\\WordConfiguration.cs",
+              "RelativeToolTip": "Word.DataAccess\\Configurations\\WordConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T01:29:18.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Program.cs",
               "RelativeDocumentMoniker": "EnWord\\Program.cs",
               "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\Program.cs",
               "RelativeToolTip": "EnWord\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:42:39.69Z"
+              "WhenOpened": "2025-08-15T14:42:39.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "EnWord\\WeatherForecast.cs",
-              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\WeatherForecast.cs",
-              "RelativeToolTip": "EnWord\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:40:58.046Z"
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EnWord\\appsettings.Development.json",
+              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\appsettings.Development.json",
+              "RelativeToolTip": "EnWord\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T03:26:28.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnWord.http",
+              "DocumentMoniker": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\EnWord.http",
+              "RelativeDocumentMoniker": "EnWord\\EnWord.http",
+              "ToolTip": "D:\\ProjectCS\\ASP.NET Core\\EnWord\\EnWord\\EnWord.http",
+              "RelativeToolTip": "EnWord\\EnWord.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-31T02:08:37.461Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\bin\Release\net9.0\EnWord.Core.deps.json
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\bin\Release\net9.0\EnWord.Core.dll
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\bin\Release\net9.0\EnWord.Core.pdb
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\EnWord.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\EnWord.Core.AssemblyInfoInputs.cache
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\EnWord.Core.AssemblyInfo.cs
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\EnWord.Core.csproj.CoreCompileInputs.cache
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\EnWord.Core.sourcelink.json
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\EnWord.Core.dll
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\refint\EnWord.Core.dll
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\EnWord.Core.pdb
+D:\ProjectCS\ASP.NET Core\EnWord\Word.Core\obj\Release\net9.0\ref\EnWord.Core.dll

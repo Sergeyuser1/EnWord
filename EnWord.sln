@@ -10,6 +10,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnWord.Core", "Word.Core\EnWord.Core.csproj", "{B5D375F8-E09C-4DDF-A76A-305E66C73F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnWord.DataAccess", "Word.DataAccess\EnWord.DataAccess.csproj", "{6E18FF26-3C9C-4ED6-8694-E145B890433B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DockerPostgres", "DockerPostgres", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose2.yml = docker-compose2.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnWord.Application", "EnWord.Application\EnWord.Application.csproj", "{35F5BF31-C358-4156-9883-DF4274F98216}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +31,18 @@ Global
 		{F642C25D-5958-48D4-9473-E5DCF710B281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F642C25D-5958-48D4-9473-E5DCF710B281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F642C25D-5958-48D4-9473-E5DCF710B281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D375F8-E09C-4DDF-A76A-305E66C73F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D375F8-E09C-4DDF-A76A-305E66C73F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D375F8-E09C-4DDF-A76A-305E66C73F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D375F8-E09C-4DDF-A76A-305E66C73F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E18FF26-3C9C-4ED6-8694-E145B890433B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E18FF26-3C9C-4ED6-8694-E145B890433B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E18FF26-3C9C-4ED6-8694-E145B890433B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E18FF26-3C9C-4ED6-8694-E145B890433B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F5BF31-C358-4156-9883-DF4274F98216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F5BF31-C358-4156-9883-DF4274F98216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F5BF31-C358-4156-9883-DF4274F98216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F5BF31-C358-4156-9883-DF4274F98216}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnWord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ea86e748451084e00fc3dfcbb63c7132b815bb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnWord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnWord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

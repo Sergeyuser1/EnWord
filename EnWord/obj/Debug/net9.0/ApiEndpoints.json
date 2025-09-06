@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "EnWord.Controllers.EnWordsController",
+    "Method": "GetWords",
+    "RelativePath": "EnWords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EnWord.Contracts.WordsResponse, EnWord, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
